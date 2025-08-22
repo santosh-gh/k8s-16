@@ -10,7 +10,7 @@ productService:
     env:
       aiServiceUrl: http://ai-service:5001/
     image:
-      repository: docker.io/e880613/product:v1
+      repository: docker.io/e880613/product
       tag: v1
     resources:
       limits:

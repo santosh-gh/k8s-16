@@ -8,7 +8,7 @@ storeFront:
   replicas: 1
   storeFront:
     image:
-      repository: docker.io/e880613/store-front:v1
+      repository: docker.io/e880613/store-front
       tag: v1
     resources:
       limits:
