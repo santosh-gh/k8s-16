@@ -10,7 +10,7 @@ productService:
     env:
       aiServiceUrl: http://ai-service:5001/
     image:
-      repository: acronlinestoredevuksouth001.azurecr.io/product
+      repository: docker.io/e880613/product:v1
       tag: v1
     resources:
       limits:
